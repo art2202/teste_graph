@@ -1,0 +1,8 @@
+query VehiclesQuery{
+
+    allVehicles{
+        manufacturer
+        model
+        name
+    }
+}
